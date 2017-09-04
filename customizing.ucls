@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="wp.customizing.controller.CustomizingAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="67" width="294" x="3557" y="1318"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="wp.customizing.dao.CustomizingDAOImpl" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dao/CustomizingDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="157" width="216" x="4795" y="1318"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="wp.customizing.dto.CartDTO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dto/CartDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="337" width="193" x="125" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="wp.customizing.dto.ShopDTO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dto/ShopDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="445" width="226" x="358" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="wp.customizing.dto.ProductDTO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dto/ProductDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1867" width="1095" x="624" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="wp.customizing.controller.CustomizingFrontController" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingFrontController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="85" width="291" x="1759" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="wp.customizing.controller.IngdComparator" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/IngdComparator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="85" width="175" x="2090" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="wp.customizing.dto.CustomizingPDTO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dto/CustomizingPDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="931" width="544" x="2305" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="wp.customizing.controller.CustomizingShopAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingShopAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="85" width="294" x="2889" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="wp.customizing.controller.CustomizingIngredientAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingIngredientAction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="85" width="294" x="3223" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="wp.customizing.dto.IngdDTO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dto/IngdDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="391" width="196" x="4559" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="wp.customizing.dao.CustomizingDAO" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/dao/CustomizingDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="139" width="216" x="4795" y="1515"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="wp.customizing.controller.ShowIngredientAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/ShowIngredientAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="85" width="294" x="3557" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="wp.customizing.controller.CustomizingCartAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingCartAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="85" width="294" x="3891" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="wp.customizing.controller.CustomizingEffectAction" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/controller/CustomizingEffectAction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="85" width="294" x="4225" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="wp.customizing.service.CustomizingService" project="WowPillProject" 
+    file="/WowPillProject/src/wp/customizing/service/CustomizingService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="157" width="216" x="4795" y="-589"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="17">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="20">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="21">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="22">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="23" name="dao"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="25">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
